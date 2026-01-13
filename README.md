@@ -22,6 +22,4 @@ SUBJECT_ID/ASSESSMENT_ID/Sequence/(SUBJECT_ID)_(ASSESMENT_ID)_run-xx_protocol.ex
 ## Contributors
 - Deepankan0: Creator and maintainer
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
